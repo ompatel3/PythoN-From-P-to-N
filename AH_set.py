@@ -13,3 +13,5 @@ print('Union ',x)
 y=s1.intersection(s2)
 print("intersection ",y)
 print("is disjoint ",s1.isdisjoint(s2))
+#length of set
+print(len(y))
