@@ -25,3 +25,8 @@ print(x[::-1]) ##### Reverse of string
 print(x[0:5]) # 0,1,2,3,4 0 to 5-1
 print(x[-4:])
 print(x[-4:-2])
+#convert string into upper case
+print(x.upper())
+#replace string with other
+print(x.replace("arpit","kajal"))
+
