@@ -11,3 +11,8 @@ ii=0
 while ii < len(myList):
     print("while ->",myList[ii])
     ii=ii+2
+    
+    
+x=10
+while x<0:
+    print(x)
