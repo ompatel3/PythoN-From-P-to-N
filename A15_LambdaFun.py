@@ -2,6 +2,7 @@ import random
 
 minus = lambda x,y:x-y
 plus = lambda x,y:x+y
+multi = lambda x,y:x*y
 
 print("lambda function")
 A=[[4,3],[3,12],[11,7]]
