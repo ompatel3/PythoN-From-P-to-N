@@ -1,3 +1,5 @@
+x=int(input("Enter any number "))
+print(x*x)
 print("Enter Something")
 var = input()   # input will be taken as string
 print(type(var),var)
